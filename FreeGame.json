@@ -1,0 +1,63 @@
+[
+    
+{
+    "othername": "Two Point Hospital",
+    "othersubtitle": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+    "otherprice": "₹1999 🏥 $29.99",
+    "otherrating": "4.5 🌟",
+    "otherimage_url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc?resize=1&w=854&h=480&quality=medium",
+    "otherotherplatform": "Epic", 
+    "otherplatformlogo": "https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Emblem.png",            
+    "otherredirect_url": "https://store.epicgames.com/en-US/p/two-point-hospital"
+  },
+    {
+    "othername": "WHAT THE PAK?!",
+    "othersubtitle": "WHAT THE PAK?! is a minigame-rush party game with fast-paced gameplay for up to 8 players. Our various mini-games are designed so you can pull off all kinds of shenanigans with your friends. Punch them, lick them… Steal their chickens before throwing them overboard.",
+    "otherprice": "₹300 👁️ $5.99",
+    "otherrating": "4.0 🌟",
+    "otherimage_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2752710/80ab616e80fa566471fd368f06da73a2d735ee3d/header.jpg?t=1749637682",
+    "otherotherplatform": "Steam", 
+    "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
+    "otherredirect_url": "https://store.steampowered.com/app/2752710/WHAT_THE_PAK/"
+  },
+  {
+    "othername": "Hellslave",
+    "othersubtitle": "Hellslave is a dark fantasy dungeon crawler where you make a pact with the Devil to fight back a demon invasion. Customize your character with powerful demonic abilities, explore a cursed world, and battle nightmarish enemies to save humanity if you can resist the darkness.",
+    "otherprice": "₹1529 👹 $19.99",
+    "otherrating": "4.5 🌟",
+    "otherimage_url": "https://clan.fastly.steamstatic.com/images//40432619/00b53976823ef7e737043470309ef199d0e989db.gif",
+    "otherotherplatform": "Steam", 
+    "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
+    "otherredirect_url": "https://store.steampowered.com/app/1608450/Hellslave/"
+  },
+{
+    "othername": "Tell Me Why",
+    "othersubtitle": "Tell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices. As you conjure up memories of the past, your choices will affect the twins’ relationship, determine the strength of their bond, and shape the course of their lives.",
+    "otherprice": "₹529 💞 $19.99",
+    "otherrating": "4.8 🌟",
+    "otherimage_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg?t=1747155575",
+    "otherotherplatform": "Steam", 
+    "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
+    "otherredirect_url": "https://store.steampowered.com/app/1180660/Tell_Me_Why/"
+  },
+  {
+   "othername": "So Much Stuff",
+  "othersubtitle": "The ultimate sorting and matching game that will put your object recognition skills to the test!",
+  "otherprice": "₹570 🧩 $5.99",
+  "otherrating": "5.00 🌟",
+  "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2164100/header.jpg?t=1729511412",
+  "otherotherplatform": "indiegala",
+  "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",           
+  "otherredirect_url": "https://boomzap.indiegala.com/so-much-stuff"
+},
+{
+   "othername": "WTC : Love's Labour's Lost",
+  "othersubtitle": "The city of Chichester was once an unassuming and lawful place. located on the southern tip of England.",
+  "otherprice": "₹610 💔 $12.99",
+  "otherrating": "4.5 🌟",
+  "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1981690/header.jpg?t=1735943142",
+  "otherotherplatform": "indiegala",
+  "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",         
+  "otherredirect_url": "https://triorityn.indiegala.com/wtc-love-s-labour-s-lost"
+}
+]
