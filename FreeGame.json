@@ -39,5 +39,25 @@
     "otherotherplatform": "Steam", 
     "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
     "otherredirect_url": "https://store.steampowered.com/app/1180660/Tell_Me_Why/"
-  }
+  },
+      {
+   "othername": "So Much Stuff",
+  "othersubtitle": "The ultimate sorting and matching game that will put your object recognition skills to the test!",
+  "otherprice": "₹570 🧩 $5.99",
+  "otherrating": "5.00 🌟",
+  "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2164100/header.jpg?t=1729511412",
+  "otherotherplatform": "indiegala",
+  "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",           
+  "otherredirect_url": "https://boomzap.indiegala.com/so-much-stuff"
+},
+{
+   "othername": "WTC : Love's Labour's Lost",
+  "othersubtitle": "The city of Chichester was once an unassuming and lawful place. located on the southern tip of England.",
+  "otherprice": "₹610 💔 $12.99",
+  "otherrating": "4.5 🌟",
+  "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1981690/header.jpg?t=1735943142",
+  "otherotherplatform": "indiegala",
+  "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",         
+  "otherredirect_url": "https://triorityn.indiegala.com/wtc-love-s-labour-s-lost"
+}
 ]
