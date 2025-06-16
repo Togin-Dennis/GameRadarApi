@@ -1,0 +1,164 @@
+
+[
+       {
+    "discounturl": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c?resize=1&w=360&h=480&quality=medium",
+    "discountname": "The Callisto Protocol™",
+    "discountpercentage": "85",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$8.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/"
+  },{
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1710580/library_600x900_2x.jpg?t=1728470115",
+    "discountname": "MotoGP™22",
+    "discountpercentage": "85",
+    "discountoldprice": "$29.99",
+    "discountnewprice": "$4.49 ",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1710580/MotoGP22/"
+  },{
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900_2x.jpg?t=1729011444",
+    "discountname": "Rise of the Tomb Raider™",
+    "discountpercentage": "85",
+    "discountoldprice": "$29.99",
+    "discountnewprice": "$4.49",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/"
+  },{
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900_2x.jpg?t=1747407792",
+    "discountname": "NBA 2K25",
+    "discountpercentage": "80",
+    "discountoldprice": "$79.99",
+    "discountnewprice": "$15.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/2878980/NBA_2K25/"
+  },{
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239550/library_600x900_2x.jpg?t=1747655055",
+    "discountname": "Watch Dogs®: Legion",
+    "discountpercentage": "85",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$8.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/2239550/Watch_Dogs_Legion/"
+  },{
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg?t=1739176820",
+    "discountname": "Watch_Dogs® 2",
+    "discountpercentage": "85",
+    "discountoldprice": "$49.99",
+    "discountnewprice": "$7.49",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/447040/Watch_Dogs_2/"
+  },
+       {
+    "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/78536?resize=1&w=360&h=480&quality=medium",
+    "discountname": "Beholder 2",
+    "discountpercentage": "90%",
+    "discountoldprice": "$17.99",
+    "discountnewprice": "$1.79",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/761620/Beholder_2/"
+  },
+
+       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247080/library_600x900_2x.jpg?t=1745447262",
+    "discountname": "Crypt of the NecroDancer",
+    "discountpercentage": "90%",
+    "discountoldprice": "$14.99",
+    "discountnewprice": "$1.49",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/"
+  },
+
+       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/345660/library_600x900_2x.jpg?t=1729007931",
+    "discountname": "RIDE",
+    "discountpercentage": "90%",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/345660/RIDE/"
+  },
+
+      {
+    "discounturl": "https://cdn1.epicgames.com/offer/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S4_1200x1600-117bcceb7b116f21e4935b154a9867e7?resize=1&w=360&h=480&quality=medium",
+    "discountname": "This War of Mine",
+    "discountpercentage": "95%",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$0.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/282070/This_War_of_Mine/"
+  },
+ {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/475550/header.jpg?t=1745830980",
+    "discountname": "Beholder",
+    "discountpercentage": "94%",
+    "discountoldprice": "$13.99",
+    "discountnewprice": "$0.83",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/475550/Beholder/"
+  },
+ {
+    "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/1048?resize=1&w=360&h=480&quality=medium",
+    "discountname": "Hitman: Blood Money",
+    "discountpercentage": "90%",
+    "discountoldprice": "$9.99",
+    "discountnewprice": "$0.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/6860/Hitman_Blood_Money/"
+  },
+ {
+    "discounturl": "https://cdn1.epicgames.com/spt-assets/73da60707d5a4969b1ff813c069a34da/hell-division-17kge.jpg?resize=1&w=360&h=480&quality=medium",
+    "discountname": "Hell Division",
+    "discountpercentage": "95%",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$0.99",
+    "discountplatform": "Epic",
+    "discountredirecturl": "https://store.epicgames.com/en-US/p/hell-division-440ad8"
+  },
+ {
+    "discounturl": "https://cdn1.epicgames.com/spt-assets/b1d55bd41bc447899437e2eb89456712/gray-dawn-jrghu.jpg?resize=1&w=360&h=480&quality=medium",
+    "discountname": "Gray Dawn",
+    "discountpercentage": "80%",
+    "discountoldprice": "$14.99",
+    "discountnewprice": "$2.99",
+    "discountplatform": "Epic",
+    "discountredirecturl": "https://store.epicgames.com/en-US/p/gray-dawn-a0cc44"
+  },
+ {
+    "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/76770?resize=1&w=360&h=480&quality=medium",
+    "discountname": "Bridge Constructor Portal",
+    "discountpercentage": "90%",
+    "discountoldprice": "$9.99",
+    "discountnewprice": "$0.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/"
+  },
+
+     {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/library_600x900_2x.jpg?t=1731365610",
+    "discountname": "Borderlands 3",
+    "discountpercentage": "95",
+    "discountoldprice": "2990",
+    "discountnewprice": "149",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/397540/Borderlands_3/"
+  },
+  {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/library_600x900_2x.jpg?t=1728608128",
+    "discountname": "Borderlands: The Pre-Sequel",
+    "discountpercentage": "90",
+    "discountoldprice": "1999",
+    "discountnewprice": "199",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/"
+  },
+  {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/b962a5213054357b157b0fe45bf9db41b5739886/library_600x900_2x.jpg?t=1738004178",
+    "discountname": "Dying Light",
+    "discountpercentage": "80",
+    "discountoldprice": "599",
+    "discountnewprice": "199",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/239140/Dying_Light/"
+  }
+]
