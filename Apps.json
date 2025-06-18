@@ -1,4 +1,77 @@
 [
+    {
+    "appname": "Survival Island: Evolve Pro",
+    "appsubtitle": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appurl": "https://play-lh.googleusercontent.com/5YB1ywqDGObCShISupZzPcLxYdjFX8LjcsVnf12NbdoI4ztpCjw61lu3tBGxeuabe3Id=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro&hl=en"
+  }, {
+    "appname": "Alpine Watch Face",
+    "appsubtitle": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/KqWhNL_NCpy4u1t65GZzSjdM6Kbewc11qqvcv7i3rLEWV9AXaQfJ9nNEV5M8EKamxAk=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.alpine&hl=en"
+  }, {
+    "appname": "Food Fever Premium: Restaurant",
+    "appsubtitle": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appurl": "https://play-lh.googleusercontent.com/BfllkmJpLd7vA_Rqu99VwUapbY-hL4-4HNjwNgDoG3qYgQGGo9WPDpmz83ooAKDjIUfg=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium&hl=en"
+  }, {
+    "appname": "Battery Widget",
+    "appsubtitle": "yuandroid",
+    "appprice": "$0.99",
+    "apprating": "3.2",
+    "appurl": "https://play-lh.googleusercontent.com/GlLiQhZWDXOZoQNN3Sf9acfYPWVfaW_KkyxSRqMu_F9nWdigKZHcoYVT-8Nq5Z_prQo=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yuandroid.Battery.Widget&hl=en"
+  }, {
+    "appname": "My Medicine Pro - Health Log",
+    "appsubtitle": "made easy",
+    "appprice": "$2.49",
+    "apprating": "2.7",
+    "appurl": "https://play-lh.googleusercontent.com/oXS9dDqSMhe5VIyrDOcu_yrhXLvyGTtHGSO5yXlc-ZqXcYgsL2JligrA0ZbJGiiSog=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro&hl=en"
+  }, {
+    "appname": "Inab Purple - Icon Pack",
+    "appsubtitle": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appurl": "https://play-lh.googleusercontent.com/o1FAbCLYDl0u-CRPWFXI5g0N9bE6NcYy2Oij3trk4yk1x0jxC6cwRek8nPqYTfcAjl0X=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack&hl=en"
+  }, {
+    "appname": "Dock 3D - Icon Pack",
+    "appsubtitle": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/rbCAfXtBbpRKfSC-hbtLK3V4lxJk_xA-d0oBv-ggDQzrEsU3mFmOQ8z6sqqGdJ3gESc=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock&hl=en"
+  }, {
+    "appname": "Purple - Icon Pack",
+    "appsubtitle": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appurl": "https://play-lh.googleusercontent.com/_W0GAo8Bnl6pWFUmHW3rXmg36-aV3SqkptMHwPZcXW-HzEIvGn4rjruggx-vpAaJOEJJ=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purple&hl=en"
+  }, {
+    "appname": "CircleDock 3D - Icon Pack",
+    "appsubtitle": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appurl": "https://play-lh.googleusercontent.com/9G7mqdKducFd0JLcvw3X1SquQ3JkDqGGPROypaE73sSzCdPCYAj3amwUqp1KOrborw=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle&hl=en"
+  },
    {
     "appname": "Contact Edge side bar",
     "appsubtitle": "Yogesh Dama",
@@ -51,15 +124,6 @@
     "appurl": "https://play-lh.googleusercontent.com/LvRz9oiqEnJkjeOZ44c6YxrZvQUAANJPQDOlINbQHu9_ooxlz5SVzZ-O0IjY0JtuTZM=w480-h960-rw",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast&hl=en_IN"
-  },
-   {
-    "appname": "Oscuro Icon Pack",
-    "appsubtitle": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appurl": "https://play-lh.googleusercontent.com/GR4Am1GaliNG4_Zt_9G-VDyPB2TR-8B-BrGCFhHM9V4rDJ6m2zx20BE5bXNDkHfmcnc=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.oscuro&hl=en_IN"
   },
    {
     "appname": "Shadow Knight: Ninja Assassin",
@@ -168,46 +232,5 @@
     "appurl": "https://play-lh.googleusercontent.com/_7Su1hfN05qTZpbdzS1G6m_2lk13LTcbGjeHtcXzFHMuRMmj7docZpH5OIQnIURJne8=s512-rw",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight&hl=en"
-  },
- {
-    "appname": "CRAFTEROK™ Lords of Survival",
-    "appsubtitle": "GameFirst",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appurl": "https://play-lh.googleusercontent.com/6QhmRNlYEWvxuLsdV6gN3A8S_Z67H58Fz0FJtVqvCu3ybbOg9XoqVavoSQejvoq0gQ=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=crafterok.survival.gamefirst&hl=en"
-  },{
-    "appname": "Pixel Net - Neon Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appurl": "https://play-lh.googleusercontent.com/AVhbpybJJ7f4-qhnklr-Ww-mJAUWxTOc1vPWtCJ7NkjyJNW0EzQ8XdkWlk_oJ_lR6bz2=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net&hl=en"
-  },{
-    "appname": "Undead City: Survivor Premium",
-    "appsubtitle": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.4",
-    "appurl": "https://play-lh.googleusercontent.com/YVDNvWP9Tl42VfN6yww0illoWumA31CGX0t9-9qreyM0R_C0jIlUqqiXQX-z_fhqMCc=s512-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium&hl=en"
-  },{
-    "appname": "City Destructor HD",
-    "appsubtitle": "NODETRACK",
-    "appprice": "$2.49",
-    "apprating": "3.2",
-    "appurl": "https://play-lh.googleusercontent.com/1uRRDsbuhIVyoJpNESxwanbAONi31cdnQb2G9YSRjYwj-Rqg8oxFq1unN0ZDKPLosAw=s128-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd&hl=en"
-  },{
-    "appname": "Red - Icon Pack",
-    "appsubtitle": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appurl": "https://play-lh.googleusercontent.com/R4FfGVck6W5WqIJxBjbU0VdxNGpN3aqWrgmo5bgH0xAPTc8wajgVkK1PsgNZg_VW7v4=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.red&hl=en"
   }
 ]
