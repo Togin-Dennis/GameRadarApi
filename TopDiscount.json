@@ -1,5 +1,41 @@
 
+
 [
+        {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/355790/library_600x900_2x.jpg",
+    "discountname": "Styx: Shards of Darkness",
+    "discountpercentage": "90",
+    "discountoldprice": "$19,99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/"
+  },
+        {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/library_600x900_2x.jpg",
+    "discountname": "Hitman 2: Silent Assassin",
+    "discountpercentage": "90",
+    "discountoldprice": "$8.99",
+    "discountnewprice": "$0.89",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/6850/Hitman_2_Silent_Assassin/"
+  },
+        {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/library_600x900_2x.jpg",
+    "discountname": "HITMAN World of Assassination",
+    "discountpercentage": "80",
+    "discountoldprice": "$29.99",
+    "discountnewprice": "$5.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/"
+  },   {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/805550/library_600x900_2x.jpg",
+    "discountname": "Assetto Corsa Competizione",
+    "discountpercentage": "75",
+    "discountoldprice": "$39.99",
+    "discountnewprice": "$9.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/"
+  },
        {
     "discounturl": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c?resize=1&w=360&h=480&quality=medium",
     "discountname": "The Callisto Protocol™",
@@ -8,15 +44,8 @@
     "discountnewprice": "$8.99",
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/"
-  },{
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1710580/library_600x900_2x.jpg?t=1728470115",
-    "discountname": "MotoGP™22",
-    "discountpercentage": "85",
-    "discountoldprice": "$29.99",
-    "discountnewprice": "$4.49 ",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/1710580/MotoGP22/"
-  },{
+  },
+       {
     "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900_2x.jpg?t=1729011444",
     "discountname": "Rise of the Tomb Raider™",
     "discountpercentage": "85",
@@ -68,17 +97,6 @@
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/"
   },
-
-       {
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/345660/library_600x900_2x.jpg?t=1729007931",
-    "discountname": "RIDE",
-    "discountpercentage": "90%",
-    "discountoldprice": "$19.99",
-    "discountnewprice": "$1.99",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/345660/RIDE/"
-  },
-
       {
     "discounturl": "https://cdn1.epicgames.com/offer/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S4_1200x1600-117bcceb7b116f21e4935b154a9867e7?resize=1&w=360&h=480&quality=medium",
     "discountname": "This War of Mine",
@@ -98,15 +116,6 @@
     "discountredirecturl": "https://store.steampowered.com/app/475550/Beholder/"
   },
  {
-    "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/1048?resize=1&w=360&h=480&quality=medium",
-    "discountname": "Hitman: Blood Money",
-    "discountpercentage": "90%",
-    "discountoldprice": "$9.99",
-    "discountnewprice": "$0.99",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/6860/Hitman_Blood_Money/"
-  },
- {
     "discounturl": "https://cdn1.epicgames.com/spt-assets/73da60707d5a4969b1ff813c069a34da/hell-division-17kge.jpg?resize=1&w=360&h=480&quality=medium",
     "discountname": "Hell Division",
     "discountpercentage": "95%",
@@ -114,15 +123,6 @@
     "discountnewprice": "$0.99",
     "discountplatform": "Epic",
     "discountredirecturl": "https://store.epicgames.com/en-US/p/hell-division-440ad8"
-  },
- {
-    "discounturl": "https://cdn1.epicgames.com/spt-assets/b1d55bd41bc447899437e2eb89456712/gray-dawn-jrghu.jpg?resize=1&w=360&h=480&quality=medium",
-    "discountname": "Gray Dawn",
-    "discountpercentage": "80%",
-    "discountoldprice": "$14.99",
-    "discountnewprice": "$2.99",
-    "discountplatform": "Epic",
-    "discountredirecturl": "https://store.epicgames.com/en-US/p/gray-dawn-a0cc44"
   },
  {
     "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/76770?resize=1&w=360&h=480&quality=medium",
