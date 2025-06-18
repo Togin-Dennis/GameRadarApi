@@ -1,4 +1,15 @@
+
 [
+    {
+    "othername": "Dreaming Sarah",
+    "othersubtitle": "Inspired by the horror game Yume Nikki, Dreaming Sarah is a surreal adventure platformer game with puzzle elements, an engaging environment, an incredibly diverse cast of characters, and of course, a young girl named Sarah. Sarah has been on an accident and is in a coma. It's up to you help her wake up by exploring her dream world while collecting items, talking to weird characters and exploring the world around her!",
+    "otherprice": "₹219 💤 $5.99",
+    "otherrating": "4.5 🌟",
+    "otherimage_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/296870/header.jpg?t=1729103641",
+    "otherotherplatform": "indiegala", 
+    "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",            
+    "otherredirect_url": "https://freebies.indiegala.com/dreaming-sarah/"
+  },
 {
     "othername": "Two Point Hospital",
     "othersubtitle": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
@@ -19,16 +30,6 @@
     "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
     "otherredirect_url": "https://store.steampowered.com/app/2752710/WHAT_THE_PAK/"
   },
-  {
-    "othername": "Hellslave",
-    "othersubtitle": "Hellslave is a dark fantasy dungeon crawler where you make a pact with the Devil to fight back a demon invasion. Customize your character with powerful demonic abilities, explore a cursed world, and battle nightmarish enemies to save humanity if you can resist the darkness.",
-    "otherprice": "₹1529 👹 $19.99",
-    "otherrating": "4.5 🌟",
-    "otherimage_url": "https://clan.fastly.steamstatic.com/images//40432619/00b53976823ef7e737043470309ef199d0e989db.gif",
-    "otherotherplatform": "Steam", 
-    "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
-    "otherredirect_url": "https://store.steampowered.com/app/1608450/Hellslave/"
-  },
 {
     "othername": "Tell Me Why",
     "othersubtitle": "Tell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices. As you conjure up memories of the past, your choices will affect the twins’ relationship, determine the strength of their bond, and shape the course of their lives.",
@@ -39,7 +40,7 @@
     "otherplatformlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png",            
     "otherredirect_url": "https://store.steampowered.com/app/1180660/Tell_Me_Why/"
   },
-      {
+  {
    "othername": "So Much Stuff",
   "othersubtitle": "The ultimate sorting and matching game that will put your object recognition skills to the test!",
   "otherprice": "₹570 🧩 $5.99",
