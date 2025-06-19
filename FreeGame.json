@@ -1,5 +1,15 @@
 
 [
+       {
+    "othername": "The Operator",
+    "othersubtitle": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
+    "otherprice": "₹539 🕵🏻 $13.99",
+    "otherrating": "4.5 🌟",
+    "otherimage_url": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
+    "otherotherplatform": "Epic", 
+    "otherplatformlogo": "https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Emblem.png",            
+    "otherredirect_url": "https://store.epicgames.com/en-US/p/the-operator-b835e9"
+  },
     {
     "othername": "Dreaming Sarah",
     "othersubtitle": "Inspired by the horror game Yume Nikki, Dreaming Sarah is a surreal adventure platformer game with puzzle elements, an engaging environment, an incredibly diverse cast of characters, and of course, a young girl named Sarah. Sarah has been on an accident and is in a coma. It's up to you help her wake up by exploring her dream world while collecting items, talking to weird characters and exploring the world around her!",
@@ -10,16 +20,7 @@
     "otherplatformlogo": "https://www.indiegalacdn.com/store-img_game/games/og_image/indiegala-main-og-image.jpg?v=2.432330692291445157",            
     "otherredirect_url": "https://freebies.indiegala.com/dreaming-sarah/"
   },
-{
-    "othername": "Two Point Hospital",
-    "othersubtitle": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
-    "otherprice": "₹1999 🏥 $29.99",
-    "otherrating": "4.5 🌟",
-    "otherimage_url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc?resize=1&w=854&h=480&quality=medium",
-    "otherotherplatform": "Epic", 
-    "otherplatformlogo": "https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Emblem.png",            
-    "otherredirect_url": "https://store.epicgames.com/en-US/p/two-point-hospital"
-  },
+
     {
     "othername": "WHAT THE PAK?!",
     "othersubtitle": "WHAT THE PAK?! is a minigame-rush party game with fast-paced gameplay for up to 8 players. Our various mini-games are designed so you can pull off all kinds of shenanigans with your friends. Punch them, lick them… Steal their chickens before throwing them overboard.",
