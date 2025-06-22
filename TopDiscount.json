@@ -1,6 +1,81 @@
 
-
 [
+              {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/2669320/library_600x900_2x.jpg",
+    "discountname": "EA SPORTS FC™ 25",
+    "discountpercentage": "80",
+    "discountoldprice": "$69.99",
+    "discountnewprice": "$13.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/"
+  },   
+               {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1238820/library_600x900_2x.jpg",
+    "discountname": "Battlefield 3™",
+    "discountpercentage": "95",
+    "discountoldprice": "$39.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1238820/Battlefield_3/"
+  },       {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1238840/library_600x900_2x.jpg",
+    "discountname": "Battlefield™ 1",
+    "discountpercentage": "95",
+    "discountoldprice": "$39.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1238840/Battlefield_1/"
+  },    
+        
+        
+    {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1238860/library_600x900_2x.jpg",
+    "discountname": "Battlefield 4™",
+    "discountpercentage": "95",
+    "discountoldprice": "$39.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1238860/Battlefield_4/"
+  },   
+        
+    {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1238880/library_600x900_2x.jpg",
+    "discountname": "Battlefield™ Hardline",
+    "discountpercentage": "95",
+    "discountoldprice": "$39.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1238880/Battlefield_Hardline/"
+  },  
+        
+    {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1238810/library_600x900_2x.jpg",
+    "discountname": "Battlefield™ V",
+    "discountpercentage": "95",
+    "discountoldprice": "$49.99",
+    "discountnewprice": "$2.49",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1238810/Battlefield_V/"
+  },   
+        
+ {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1517290/library_600x900_2x.jpg",
+    "discountname": "Battlefield™ 2042",
+    "discountpercentage": "95",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$2.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1517290/Battlefield_2042/"
+  },    
+        {
+    "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/1222680/library_600x900_2x.jpg",
+    "discountname": "Need for Speed™ Heat",
+    "discountpercentage": "90",
+    "discountoldprice": "$69.99",
+    "discountnewprice": "$6.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/"
+  },   
         {
     "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/355790/library_600x900_2x.jpg",
     "discountname": "Styx: Shards of Darkness",
@@ -61,22 +136,6 @@
     "discountnewprice": "$15.99",
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/2878980/NBA_2K25/"
-  },{
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239550/library_600x900_2x.jpg?t=1747655055",
-    "discountname": "Watch Dogs®: Legion",
-    "discountpercentage": "85",
-    "discountoldprice": "$59.99",
-    "discountnewprice": "$8.99",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/2239550/Watch_Dogs_Legion/"
-  },{
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg?t=1739176820",
-    "discountname": "Watch_Dogs® 2",
-    "discountpercentage": "85",
-    "discountoldprice": "$49.99",
-    "discountnewprice": "$7.49",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/447040/Watch_Dogs_2/"
   },
        {
     "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/78536?resize=1&w=360&h=480&quality=medium",
@@ -132,33 +191,5 @@
     "discountnewprice": "$0.99",
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/"
-  },
-
-     {
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/library_600x900_2x.jpg?t=1731365610",
-    "discountname": "Borderlands 3",
-    "discountpercentage": "95",
-    "discountoldprice": "2990",
-    "discountnewprice": "149",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/397540/Borderlands_3/"
-  },
-  {
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/library_600x900_2x.jpg?t=1728608128",
-    "discountname": "Borderlands: The Pre-Sequel",
-    "discountpercentage": "90",
-    "discountoldprice": "1999",
-    "discountnewprice": "199",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/"
-  },
-  {
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/b962a5213054357b157b0fe45bf9db41b5739886/library_600x900_2x.jpg?t=1738004178",
-    "discountname": "Dying Light",
-    "discountpercentage": "80",
-    "discountoldprice": "599",
-    "discountnewprice": "199",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/239140/Dying_Light/"
   }
 ]
