@@ -1,4 +1,180 @@
+
 [
+      
+ {
+    "appname": "EMI Calculator",
+    "appprice": "$0.99",
+    "apprating": "N/A",
+    "appurl": "https://play-lh.googleusercontent.com/mM_DyLJaivwuK_IWq7zXztpg5pAEzoacfytebsKBN_Ut-wHqc2K7zbiZssSvWSXG0Q=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jcemicalc&hl=en"
+  },
+      {
+    "appname": "Photos Charging Slideshow",
+    "appsubtitle": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.4",
+    "appurl": "https://play-lh.googleusercontent.com/AqbFhDylAUj2XwHk_weEo0PFTUh-I0gj6o-L4MDA_KwTfpLuvllpMvcA-T2qopW23w=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow&hl=en"
+  },
+ {
+    "appname": "Passport Photo: ID Photo Print",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/1gya1ZH7vMFbunVG5GWjpv5gKArhQwkiqmMKAtUrh3lOn3HAQYbennUVBuxlh_AhUFc=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto&hl=en"
+  },
+  {
+    "appname": "Corvy Icon Pack, Theme, Walls",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appurl": "https://play-lh.googleusercontent.com/B6hLk7Or0_-REqJj_uWQCJEKPGbMpSbYlwch9M_nGcOi1DUw7ChyAh3PY6wsLSV7WKQ=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.maxpatchs.corvy&hl=en"
+  },
+   {
+    "appname": "Tokyo Debunker: Urban Legends",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appurl": "https://play-lh.googleusercontent.com/QFQxWNmvVgany60RS6g32X-JOzVHpmGpHmIaV4In7Y69wX9J9XOKP8Py4wWQNHiW7yE=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium&hl=en"
+  },  {
+    "appname": "Purplediant - Icon Pack",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/WdBNNk0yBza2eA6RBqKAfPPQNAsDXmMA1Iw86FkFvxAwZgpbVajuXh9vrNjlXAGyMg=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple&hl=en"
+  },  {
+    "appname": "Image Converter - HEIC to JPG",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appurl": "https://play-lh.googleusercontent.com/07T4lyFaGYcbT4pBa7u-jgrvcqCc2fD-A8qyBwD_AQ7Hd072jQBQrvfSTy0NApfOv1FH=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter&hl=en"
+  },  {
+    "appname": "Railways - Train Simulator",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appurl": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=en"
+  },  {
+    "appname": "Carrot - Orange icon pack",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/hcTN_Bkx-ORiJyN4dlWV9fJ1WeEcqY0ZaOMR6cjqwyzJJ8SW20OwPYeFhsxl8pk7eg=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyorange&hl=en"
+  },  {
+    "appname": "Raya Reloaded Icon Pack",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/zpyOBekfe_dWbk0mBjy6I17ityyiWv1CZyiw4n1E61xmAE4Qfl579Jyhiuy6SnnEsQQ=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.raya.reloaded&hl=en"
+  },  {
+    "appname": "Yaktin Orange - Icon Pack",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appurl": "https://play-lh.googleusercontent.com/r27wUUqGyCJSvVgx5ied7Il-2D1r2Rm-LYPZqa0-1OEhI5d_dkhK2NthG9OUcjFZb9s=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack&hl=en"
+  },  {
+    "appname": "Red Carpet - Icon Pack",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/0KpDympP74roE0LjbuY8YjHdU-pgY_rDyQEBJFCdcgM36-XdaRQRuOvyri0MVnAuNws=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet&hl=en"
+  },  {
+    "appname": "LineBula Black - Icon Pack",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appurl": "https://play-lh.googleusercontent.com/Q4Vn_j0uMLKtOn_Rz7-vP1Y9yb6_9ijsSGGEVz5C5FwBMDLsaKqW6wX7sX9YBxUZiQ=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblack&hl=en"
+  },  {
+    "appname": "Squid - Icon Pack",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/ho80sUqvpuVc8z8eBzdyeDAeWcTDgafK7fqZ_vaPZe2H63iokeaNrLFvZegZWRM40g=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme&hl=en"
+  },  {
+    "appname": "Traffix: Traffic Simulator",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/dIc6eIBsjdNNos4xOwQf2nTtduEt91xXs-WzhQbDr5dQX70TnnmtA2JC5CRKvQHLP-7m=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix&hl=en"
+  },  {
+    "appname": "Tower Battle: Tower Full",
+    "appprice": "$1.99",
+    "apprating": "N/A",
+    "appurl": "https://play-lh.googleusercontent.com/s3mYZhUXzmO2BJ37AYnmxa425e2UeCrEOshwtXUs-mVeL47RvN5okYZzLsKHM-5iQB0=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.EnchantedTowersBattleintheForest&hl=en"
+  },  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appurl": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid&hl=en"
+  },  {
+    "appname": "Business Card Maker: Logo Card",
+    "appprice": "$4.99",
+    "apprating": "4.5",
+    "appurl": "https://play-lh.googleusercontent.com/IjrcqSfqfywLmwg_xo4E_LLNqUkFGplDLZvSLVeGQHiYhrBdsPblr7qCxdbyCwMMtI0=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker&hl=en"
+  },  {
+    "appname": "Live or Die: Zombie Survival",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appurl": "https://play-lh.googleusercontent.com/kYueoy370JTzi5xq3MKkzBqedE7ZmdyLBP_v2iu03Kd1n8gitg0Jl1g_8RpaJgl1sg=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival&hl=en"
+  },  {
+    "appname": "Monster Killer Pro - Shooter",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appurl": "https://play-lh.googleusercontent.com/FRcwbUYoJBoZ3TNi8cmQOC6oma8q1zWLwTrGn9l1L-dsONhlb6Jq-AmMi4PJj5GU4XM=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/search?q=monster%20killer%20pro&c=apps&hl=en"
+  },  {
+    "appname": "One Swipe Notes - Quick Notes",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appurl": "https://play-lh.googleusercontent.com/U1Xyd5qCp5pU4e-kNo5e6s8uSI_lmaqDLjBxg1VRgiDyrknNQfPl4F3EDYm0AKaj8A=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes&hl=en"
+  },  {
+    "appname": "Toska - Turqoise icon pack",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/Z2A0VFam9F5xadfy57_JQCJMVMWVZEunQjVXsriRCtP_pOiwp5uOgIYkyjCpyGPyPg=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olytosca&hl=en"
+  },  {
+    "appname": "DogTok - Dog Translator Pro",
+    "appprice": "$2.99",
+    "apprating": "N/A",
+    "appurl": "https://play-lh.googleusercontent.com/ClTnoKWhXl-5-4B7kVWABDpheEfRT5Et-YA3GmN1TPJLN5W9lZobgvIdXLQEl7A0fA=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app&hl=en"
+  },  {
+    "appname": "Expenso - Money Manager",
+    "appprice": "$4.99",
+    "apprating": "4.3",
+    "appurl": "https://play-lh.googleusercontent.com/qaKpbBrShTSh0x6B-VTOS99JxitzbeTjWg1RPmzQ9JBMd-YL1pJJ0UlDeNaJOrjhHLES=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.expensoapp&hl=en"
+  }, 
      {
     "appname": "Survival Dungeon: Loot RPG Pro",
     "appsubtitle": "Gem Jam",
@@ -25,231 +201,5 @@
     "appurl": "https://play-lh.googleusercontent.com/yDJ0YAtg5bB5ScMu7bLldw4HtTfMxDK5x_m85C04mf1KICMIsz0aDxzXlpfstL2PwfY=s512-rw",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation&hl=en"
-  },
-     {
-    "appname": "Offline Password Manager",
-    "appsubtitle": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.1",
-    "appurl": "https://play-lh.googleusercontent.com/LnocDJZqyH9tD-dQxuPqLzaWXJIMZ8K5VRmWCMMq9M1VNffxGFL57-DeOeCy7kDKzaCW=s512-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager&hl=en"
-  }, {
-    "appname": "Dark screen filter",
-    "appsubtitle": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appurl": "https://play-lh.googleusercontent.com/TdM1fDMa4VpNXSGq-IOPogbxX-Zw7khSTN_w-0atQTsdJJqioNKUTzHsLJvLa9droQ=s512-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro&hl=en"
-  },
-     {
-    "appname": "Hexaring - Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appurl": "https://play-lh.googleusercontent.com/ntPoivegcbO_dEFvrjqLqoippDoQIRmoXQawKQe93RXHBBiWmmnaFVCVHqRokBEbl10=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexaring&hl=en"
-  },
-     {
-    "appname": "Defense Zone HD",
-    "appsubtitle": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.9",
-    "appurl": "https://play-lh.googleusercontent.com/Br9w2Svw6L6puS5ZukTflVGKxmlBAh5KEqrlRj-tHAQM3WLyYrCK-kmDlf9upSV2Ous=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone&hl=en"
-  },
-     {
-    "appname": "Swipe Break Out PvP P",
-    "appsubtitle": "wind",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appurl": "https://play-lh.googleusercontent.com/F3VXs1OSUwoqKfLJN28JRA5T-HA8z-sGFslEhMsqOjgzEtTE6Yip0cR0pXjJYxAkp8Y=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe&hl=en"
-  },
-     {
-    "appname": "RoseLine Red - Icon Pack",
-    "appsubtitle": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appurl": "https://play-lh.googleusercontent.com/m6vkOdl2kPX_v8ST03-kEMAk7YP7ii9ivqaCdmtVomImOmPbbBbJNOt9a-_ocJB1Pg=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbred&hl=en"
-  },
-     {
-    "appname": "Slime Legends - Survivor",
-    "appsubtitle": "Fori Studio",
-    "appprice": "$0.19",
-    "apprating": "4.5",
-    "appurl": "https://play-lh.googleusercontent.com/yH-fMtkj_NGH_ChvyPpS9JhIGc1eN9eWVVhfCg-gWnZUVjod0CU50UZJtItLFomqNJ1o=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends&hl=en"
-  },
-     {
-    "appname": "Survival Island: Ark Craft pro",
-    "appsubtitle": "Gem Jam",
-    "appprice": "$3.99",
-    "apprating": "3.9",
-    "appurl": "https://play-lh.googleusercontent.com/zd58bPdLyKbRHC3krynpM_hKYloRtfxgGTSTD3SozJzxxfiZ9J9ayN2T8lJpDfv5M_A=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro&hl=en"
-  },
-     {
-    "appname": "Lime - icon pack",
-    "appsubtitle": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appurl": "https://play-lh.googleusercontent.com/ijkT31ChtVIiYCOOFrIZSvczErRyOe7hb3QanVzZptbu5m9dTpd1fjGpvzBLXUxMZPwu=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime&hl=en"
-  },
-     {
-    "appname": "Hexa Crop - Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appurl": "https://play-lh.googleusercontent.com/dvyUhIPPukc9QzIEjjUyuDUA_fvh_njqG6hyRzymBUWw8F0gLHMNkzaQI1I4-WJq_hJu=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh&hl=en"
-  }, {
-    "appname": "Hexanet - Neon Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appurl": "https://play-lh.googleusercontent.com/gI6GittUk3tbdRL2uOX08ViXOtAcU4DjNd4vLE-jcoP9xWP_f7pN8vo8Zg5U-wXpaw=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexanet&hl=en"
-  },
-     {
-    "appname": "Watermark - Add Watermark",
-    "appsubtitle": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appurl": "https://play-lh.googleusercontent.com/iyaxc2L94p4Cw5y0ePNLCk1VImKP7JiuVhonrslV8qh2ZvsiZEnp1gcQzOdRKlCsCgU=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.watermarkonimage&hl=en"
-  },
-     {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appsubtitle": "Xylo Solution LLC",
-    "appprice": "$2.99",
-    "apprating": "3.9",
-    "appurl": "https://play-lh.googleusercontent.com/jLUvOsycSLAdfMCZq5W7c-IYEwjjSOXmFJz8D5H2VIbTsJwkHU7HGV1mxfiKL_Rdm8o=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro&hl=en"
-  },
-     {
-    "appname": "Video Live Wallpaper Maker",
-    "appsubtitle": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appurl": "https://play-lh.googleusercontent.com/lNceVVVupYKTiLD6WISBAX1pXhhzkD30Ov1lzveL44H6LarAAfMlfiIhQVEOVOh8Zw=s512-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.videolivewallpapers&hl=en"
-  },
-     {
-    "appname": "Add Frames to photos",
-    "appsubtitle": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appurl": "https://play-lh.googleusercontent.com/rb8trz-qkGknOa3y3ViQh8wkVp3Mb4duBD6nKuwrh9M0aaOItvWGScjZB1qQA2RtHLs=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames&hl=en"
-  },
-     {
-    "appname": "How much can I spend? Premium",
-    "appsubtitle": "Alexander Y. Ivanov",
-    "appprice": "$2.99",
-    "apprating": "3.5",
-    "appurl": "https://play-lh.googleusercontent.com/AymaHYiPlL7nQreVpsECDvDNyo4iZQGv4RZ6Z89qY5tP-GPuo-QX25RJv_zSVHs44cw=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium&hl=en"
-  },
-    
-    {
-    "appname": "Survival Island: Evolve Pro",
-    "appsubtitle": "Not Found Games",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appurl": "https://play-lh.googleusercontent.com/5YB1ywqDGObCShISupZzPcLxYdjFX8LjcsVnf12NbdoI4ztpCjw61lu3tBGxeuabe3Id=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro&hl=en"
-  }, {
-    "appname": "Alpine Watch Face",
-    "appsubtitle": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appurl": "https://play-lh.googleusercontent.com/KqWhNL_NCpy4u1t65GZzSjdM6Kbewc11qqvcv7i3rLEWV9AXaQfJ9nNEV5M8EKamxAk=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.alpine&hl=en"
-  }, {
-    "appname": "Food Fever Premium: Restaurant",
-    "appsubtitle": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appurl": "https://play-lh.googleusercontent.com/BfllkmJpLd7vA_Rqu99VwUapbY-hL4-4HNjwNgDoG3qYgQGGo9WPDpmz83ooAKDjIUfg=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium&hl=en"
-  }, {
-    "appname": "My Medicine Pro - Health Log",
-    "appsubtitle": "made easy",
-    "appprice": "$2.49",
-    "apprating": "2.7",
-    "appurl": "https://play-lh.googleusercontent.com/oXS9dDqSMhe5VIyrDOcu_yrhXLvyGTtHGSO5yXlc-ZqXcYgsL2JligrA0ZbJGiiSog=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro&hl=en"
-  }, {
-    "appname": "Inab Purple - Icon Pack",
-    "appsubtitle": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appurl": "https://play-lh.googleusercontent.com/o1FAbCLYDl0u-CRPWFXI5g0N9bE6NcYy2Oij3trk4yk1x0jxC6cwRek8nPqYTfcAjl0X=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack&hl=en"
-  }, {
-    "appname": "Dock 3D - Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appurl": "https://play-lh.googleusercontent.com/rbCAfXtBbpRKfSC-hbtLK3V4lxJk_xA-d0oBv-ggDQzrEsU3mFmOQ8z6sqqGdJ3gESc=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock&hl=en"
-  }, {
-    "appname": "Purple - Icon Pack",
-    "appsubtitle": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appurl": "https://play-lh.googleusercontent.com/_W0GAo8Bnl6pWFUmHW3rXmg36-aV3SqkptMHwPZcXW-HzEIvGn4rjruggx-vpAaJOEJJ=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purple&hl=en"
-  }, {
-    "appname": "CircleDock 3D - Icon Pack",
-    "appsubtitle": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appurl": "https://play-lh.googleusercontent.com/9G7mqdKducFd0JLcvw3X1SquQ3JkDqGGPROypaE73sSzCdPCYAj3amwUqp1KOrborw=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle&hl=en"
-  },
-   {
-    "appname": "Contact Edge side bar",
-    "appsubtitle": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appurl": "https://play-lh.googleusercontent.com/aLomM6f-IlgnRV0Iffjf8nlvELJKe5RXjpEw47YIsqLW7PGy0mFnjmUyDPgLmDado_WV=s512-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar&hl=en_IN"
-  }, 
-   {
-    "appname": "Guardian War: Ultimate Edition",
-    "appsubtitle": "ZITGA",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appurl": "https://play-lh.googleusercontent.com/H2ihoxm0TsDIznVtl9cQms6rhOh8z7b47XWFbsL2aD-6Mcm3wU087sSmVDHm5UcpKQ=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games&hl=en_IN"
   }
 ]
