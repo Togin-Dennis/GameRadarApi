@@ -1,5 +1,83 @@
 
 [
+           {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/library_600x900_2x.jpg?t=1734461136",
+    "discountname": "Hitman: Absolution™",
+    "discountpercentage": "90",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/203140/Hitman_Absolution/"
+  },
+           {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/library_600x900_2x.jpg?t=1740607040",
+    "discountname": "Sid Meier’s Civilization® VI",
+    "discountpercentage": "95",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$2.54",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/"
+  },       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1088850/library_600x900_2x.jpg?t=1751567846",
+    "discountname": "Marvel's Guardians of the Galaxy",
+    "discountpercentage": "90",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$5.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/"
+  },
+           {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/345660/library_600x900_2x.jpg?t=1729007931",
+    "discountname": "RIDE",
+    "discountpercentage": "90",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/345660/RIDE/"
+  },       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/561600/library_600x900_2x.jpg?t=1728479061",
+    "discountname": "MXGP3 - The Official Motocross Videogame",
+    "discountpercentage": "90",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/"
+  },
+           {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/library_600x900_2x.jpg?t=1725354099",
+    "discountname": "WRC 8 FIA World Rally Championship",
+    "discountpercentage": "90",
+    "discountoldprice": "$29.99",
+    "discountnewprice": "$2.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1004750/WRC_8_FIA_World_Rally_Championship/"
+  },       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108710/library_600x900_2x.jpg?t=1726554283",
+    "discountname": "Alan Wake",
+    "discountpercentage": "90",
+    "discountoldprice": "$14.99",
+    "discountnewprice": "$1.49",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/108710/Alan_Wake/"
+  },       {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/621830/library_600x900_2x.jpg?t=1725354050",
+    "discountname": "WRC 7 FIA World Rally Championship",
+    "discountpercentage": "90",
+    "discountoldprice": "$19.99",
+    "discountnewprice": "$1.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/621830/WRC_7_FIA_World_Rally_Championship/"
+  },
+    {
+    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/library_600x900_2x.jpg?t=1750802377",
+    "discountname": "Borderlands 3",
+    "discountpercentage": "95",
+    "discountoldprice": "$59.99",
+    "discountnewprice": "$2.99",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/397540/Borderlands_3/"
+  },
+  
               {
     "discounturl": "https://steamcdn-a.akamaihd.net/steam/apps/2669320/library_600x900_2x.jpg",
     "discountname": "EA SPORTS FC™ 25",
@@ -76,15 +154,6 @@
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/"
   },   
-        {
-    "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/355790/library_600x900_2x.jpg",
-    "discountname": "Styx: Shards of Darkness",
-    "discountpercentage": "90",
-    "discountoldprice": "$19,99",
-    "discountnewprice": "$1.99",
-    "discountplatform": "Steam",
-    "discountredirecturl": "https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/"
-  },
         {
     "discounturl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/library_600x900_2x.jpg",
     "discountname": "Hitman 2: Silent Assassin",
@@ -173,15 +242,6 @@
     "discountnewprice": "$0.83",
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/475550/Beholder/"
-  },
- {
-    "discounturl": "https://cdn1.epicgames.com/spt-assets/73da60707d5a4969b1ff813c069a34da/hell-division-17kge.jpg?resize=1&w=360&h=480&quality=medium",
-    "discountname": "Hell Division",
-    "discountpercentage": "95%",
-    "discountoldprice": "$19.99",
-    "discountnewprice": "$0.99",
-    "discountplatform": "Epic",
-    "discountredirecturl": "https://store.epicgames.com/en-US/p/hell-division-440ad8"
   },
  {
     "discounturl": "https://external-game-cover-image-cf.store.on.epicgames.com/76770?resize=1&w=360&h=480&quality=medium",
