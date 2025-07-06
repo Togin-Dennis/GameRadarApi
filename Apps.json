@@ -1,5 +1,40 @@
-
 [
+  {
+    "appname": "Coral",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appurl": "https://play-lh.googleusercontent.com/LB9cH3b15Xk7UpeLEz7KQR2dMGZ90oNsvSWOoGCrYfvS9mHRADthkPVweVyrP20UgRU=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.coral&hl=en_IN"
+  },{
+    "appname": "Sav PDF Viewer Pro - Read PDFs",
+    "appprice": "$3.49",
+    "apprating": "3.6",
+    "appurl": "https://play-lh.googleusercontent.com/EjEhmxvsFX8yP2jDHvmViTjV_KJ8eeVsTvBYTHEECqbadtjG9zMAJkY1KzEUae-jPbI=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.saverio.pdfviewer&hl=en_IN"
+  },{
+    "appname": "Castle Defender Premium",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appurl": "https://play-lh.googleusercontent.com/nPzu1eLdhu2Gd9yNpGEVHE2ELAFHT3zJ0k3XcieRLN9pZOYJ9gEgnSIstMo_mo3gfOE=s96-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium&hl=en_IN"
+  },{
+    "appname": "Earth - Lines Icon Pack",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appurl": "https://play-lh.googleusercontent.com/GOQaJYnpSybZxsF1rxv4iy8EGnj1pPd3gQHrn_BQl6XdE4M5GlQO87fxBGILfU5VjIMt=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbearth&hl=en_IN"
+  },{
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appprice": "$0.99",
+    "apprating": "3.4",
+    "appurl": "https://play-lh.googleusercontent.com/hNHrf3wNHnKE_i1Q2gnYJjgYyOmlbL3Yp2dyHP-morGK1iIGt2ApUxxc3nUGRAMkTCM-=w480-h960-rw",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip&hl=en_IN"
+  },
   {
     "appname": "PDF Editor Pro - Edit PDF Docs",
     "appprice": "$3.99",
@@ -124,87 +159,5 @@
     "appurl": "https://play-lh.googleusercontent.com/60JcATFR_j0tAxn_rdr6I1EM6UVfN9FtKnf0nIXuUX-ejyBMLrRRq1CWS7CRRLPUJ38f=w480-h960-rw",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.textwidget&hl=en"
-  },
-      {
-    "appname": "Photos Charging Slideshow",
-    "appsubtitle": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.4",
-    "appurl": "https://play-lh.googleusercontent.com/AqbFhDylAUj2XwHk_weEo0PFTUh-I0gj6o-L4MDA_KwTfpLuvllpMvcA-T2qopW23w=s96-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow&hl=en"
-  },
- {
-    "appname": "Passport Photo: ID Photo Print",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appurl": "https://play-lh.googleusercontent.com/1gya1ZH7vMFbunVG5GWjpv5gKArhQwkiqmMKAtUrh3lOn3HAQYbennUVBuxlh_AhUFc=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto&hl=en"
-  },
-  {
-    "appname": "Corvy Icon Pack, Theme, Walls",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appurl": "https://play-lh.googleusercontent.com/B6hLk7Or0_-REqJj_uWQCJEKPGbMpSbYlwch9M_nGcOi1DUw7ChyAh3PY6wsLSV7WKQ=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.maxpatchs.corvy&hl=en"
-  },
-   {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appurl": "https://play-lh.googleusercontent.com/QFQxWNmvVgany60RS6g32X-JOzVHpmGpHmIaV4In7Y69wX9J9XOKP8Py4wWQNHiW7yE=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium&hl=en"
-  },  {
-    "appname": "Purplediant - Icon Pack",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appurl": "https://play-lh.googleusercontent.com/WdBNNk0yBza2eA6RBqKAfPPQNAsDXmMA1Iw86FkFvxAwZgpbVajuXh9vrNjlXAGyMg=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple&hl=en"
-  },  {
-    "appname": "Image Converter - HEIC to JPG",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appurl": "https://play-lh.googleusercontent.com/07T4lyFaGYcbT4pBa7u-jgrvcqCc2fD-A8qyBwD_AQ7Hd072jQBQrvfSTy0NApfOv1FH=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter&hl=en"
-  },   {
-    "appname": "Carrot - Orange icon pack",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appurl": "https://play-lh.googleusercontent.com/hcTN_Bkx-ORiJyN4dlWV9fJ1WeEcqY0ZaOMR6cjqwyzJJ8SW20OwPYeFhsxl8pk7eg=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyorange&hl=en"
-  },   {
-    "appname": "Yaktin Orange - Icon Pack",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appurl": "https://play-lh.googleusercontent.com/r27wUUqGyCJSvVgx5ied7Il-2D1r2Rm-LYPZqa0-1OEhI5d_dkhK2NthG9OUcjFZb9s=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack&hl=en"
-  },  {
-    "appname": "Red Carpet - Icon Pack",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appurl": "https://play-lh.googleusercontent.com/0KpDympP74roE0LjbuY8YjHdU-pgY_rDyQEBJFCdcgM36-XdaRQRuOvyri0MVnAuNws=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet&hl=en"
-  },  {
-    "appname": "LineBula Black - Icon Pack",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appurl": "https://play-lh.googleusercontent.com/Q4Vn_j0uMLKtOn_Rz7-vP1Y9yb6_9ijsSGGEVz5C5FwBMDLsaKqW6wX7sX9YBxUZiQ=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblack&hl=en"
-  },  {
-    "appname": "Squid - Icon Pack",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appurl": "https://play-lh.googleusercontent.com/ho80sUqvpuVc8z8eBzdyeDAeWcTDgafK7fqZ_vaPZe2H63iokeaNrLFvZegZWRM40g=w480-h960-rw",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme&hl=en"
   }
 ]
